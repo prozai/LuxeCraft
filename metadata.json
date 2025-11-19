@@ -1,0 +1,5 @@
+{
+  "name": "LuxeCraft 3D",
+  "description": "A professional-grade 3D jewelry design suite featuring real-time physically based rendering (PBR), dynamic pricing, and an AI-powered design assistant utilizing Google Gemini 2.5 Flash for natural language configuration.",
+  "requestFramePermissions": []
+}
